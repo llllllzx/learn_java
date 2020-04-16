@@ -5,14 +5,7 @@ import domain.ListNode;
 /**
  * @author liuzhaoxin
  */
-public class InsertSortList {
-    public static void main(String[] args) {
-        ListNode node1 = new ListNode(1);
-        ListNode node2 = new ListNode(1);
-        node1.next = node2;
-        new InsertSortList().insertionSortList(node1);
-    }
-
+public class InsertionSortList {
     public ListNode insertionSortList(ListNode head) {
         ListNode dummy = new ListNode(Integer.MIN_VALUE);
         ListNode cur = dummy, pre = dummy;

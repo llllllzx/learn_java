@@ -1,12 +1,12 @@
-package untils;
+package utils;
 
 import domain.ListNode;
 
 /**
  * @author liuzhaoxin
  */
-public class ConvertArrayToListNode {
-    public static ListNode convert(int[] array) {
+public class ListUtil {
+    public static ListNode convertArrayToListNode(int[] array) {
         if (array == null || array.length == 0) {
             return null;
         }
