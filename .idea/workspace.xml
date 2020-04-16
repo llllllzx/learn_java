@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75c74bb3-a9d7-43f9-8d9a-a10b0307b950" name="Default Changelist" comment="" />
+    <list default="true" id="75c74bb3-a9d7-43f9-8d9a-a10b0307b950" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/SortList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/Singleton$sss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/Singleton.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,26 +54,13 @@
       <recent name="$PROJECT_DIR$/design-pattern/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EvaluateReversePolishNotation">
+  <component name="RunManager" selected="Application.SortList">
     <configuration name="EvaluateReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="page_001_020.EvaluateReversePolishNotation" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="page_001_020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HungrySingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.singleton.HungrySingleton" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="creational.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,19 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liuzhaoxin.classloader.initialize.Singleton" />
-      <module name="class-loader" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liuzhaoxin.classloader.initialize.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SingletonObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creational.singleton.SingletonObject" />
       <module name="design-pattern" />
@@ -115,13 +94,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page_001_020.SortList" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_001_020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="design-pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortList" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.EvaluateReversePolishNotation" />
         <item itemvalue="Application.SingletonObject" />
         <item itemvalue="Application.Singleton (1)" />
-        <item itemvalue="Application.Singleton" />
-        <item itemvalue="Application.HungrySingleton" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +149,9 @@
       <workItem from="1586405521895" duration="4858000" />
       <workItem from="1586437931712" duration="3685000" />
       <workItem from="1586483326788" duration="2268000" />
+      <workItem from="1586491703467" duration="1000" />
+      <workItem from="1586929030835" duration="589000" />
+      <workItem from="1587012280028" duration="742000" />
     </task>
     <servers />
   </component>
@@ -165,22 +167,38 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="578" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586483546171" />
-    <state width="1638" height="135" key="GridCell.Tab.0.bottom" timestamp="1586448092440">
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom" timestamp="1587013176377">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="135" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586448092440" />
-    <state width="1638" height="135" key="GridCell.Tab.0.center" timestamp="1586448092439">
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587013176377" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center" timestamp="1587013176375">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="135" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586448092439" />
-    <state width="1638" height="135" key="GridCell.Tab.0.left" timestamp="1586448092438">
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587013176375" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left" timestamp="1587013176374">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="135" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586448092438" />
-    <state width="1638" height="135" key="GridCell.Tab.0.right" timestamp="1586448092439">
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587013176374" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right" timestamp="1587013176376">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="135" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586448092439" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587013176376" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1587013176539">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587013176539" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1587013176537">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587013176537" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1587013176536">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587013176536" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1587013176538">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587013176538" />
     <state x="378" y="187" key="Maven.ArtifactSearchDialog" timestamp="1586439573069">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -195,5 +213,16 @@
     </state>
     <state x="234" y="216" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1586443624727" />
     <state x="234" y="234" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1586406014308" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/page_001_020/SortList.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
