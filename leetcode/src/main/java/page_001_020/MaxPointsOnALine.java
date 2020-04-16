@@ -1,5 +1,7 @@
 package page_001_020;
 
+import domain.Point;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -45,19 +47,5 @@ public class MaxPointsOnALine {
     }
 }
 
-class Point {
-    int x;
-    int y;
-
-    Point() {
-        x = 0;
-        y = 0;
-    }
-
-    Point(int a, int b) {
-        x = a;
-        y = b;
-    }
-}
 
 
