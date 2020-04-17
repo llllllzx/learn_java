@@ -1,6 +1,4 @@
-package com.liuzhaoxin.classloader.initialize;
-
-import java.util.Random;
+package com.liuzhaoxin.initialize;
 
 public class Test2 {
     public static void main(String[] args) {

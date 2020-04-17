@@ -1,4 +1,4 @@
-package com.liuzhaoxin.classloader.initialize;
+package com.liuzhaoxin.initialize;
 
 public class Singleton01 {
     private static int x = 0;

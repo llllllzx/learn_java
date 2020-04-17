@@ -1,4 +1,4 @@
-package com.liuzhaoxin.classloader.initialize;
+package com.liuzhaoxin.initialize;
 
 public class Test {
     static int i = 1;

@@ -1,4 +1,4 @@
-package com.liuzhaoxin.classloader.initialize;
+package com.liuzhaoxin.initialize;
 
 
 import java.util.Random;
