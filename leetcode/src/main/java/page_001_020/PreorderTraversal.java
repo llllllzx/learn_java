@@ -7,8 +7,17 @@ import java.util.Stack;
 
 /**
  * @author liuzhaoxin
+ * 前序遍历二叉树
  */
 public class PreorderTraversal {
+    public static void main(String[] args) {
+        String str = "lzx123";
+        String s = "lzx";
+//        final int i = str.indexOf(s);
+        final String substring = str.substring(str.length());
+        System.out.println(substring.length() == 0);
+        System.out.println(str.startsWith("lzx"));
+    }
     public ArrayList<Integer> preorderTraversal(TreeNode root) {
         if (root != null) {
             ArrayList<Integer> list = new ArrayList<>();

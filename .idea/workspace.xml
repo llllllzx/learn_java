@@ -2,34 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c74bb3-a9d7-43f9-8d9a-a10b0307b950" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/classloader/LoaderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/ReorderList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/WordBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/classloader/initialize/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/initialize/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/classloader/initialize/Singleton01.java" beforeDir="false" afterPath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/initialize/Singleton01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/classloader/initialize/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/initialize/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/classloader/initialize/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/initialize/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/classloader/initialize/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/class-loader/src/main/java/com/liuzhaoxin/initialize/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/initialize/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/initialize/Obj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/initialize/Obj1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/initialize/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/initialize/Singleton01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/initialize/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/initialize/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/initialize/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/domain/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/domain/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/domain/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/domain/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/domain/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/domain/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/EvaluateReversePolishNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/EvaluateReversePolishNotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/InsertSortList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/InsertSortList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/MaxPointsOnALine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/MaxPointsOnALine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/MinimumDepthOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/MinimumDepthOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/SortList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/SortList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/untils/ConvertArrayToListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/InsertionSortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/InsertionSortList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/PostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/PreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/ReorderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/ReorderList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/InsertionSortList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/InsertionSortList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PostorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PostorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PreorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PreorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/ReorderList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/ReorderList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,39 +61,26 @@
       <recent name="$PROJECT_DIR$/design-pattern/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReorderList">
-    <configuration name="ConvertArrayToListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="untils.ConvertArrayToListNode" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertSortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="page_001_020.InsertSortList" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="page_001_020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WordBreak">
     <configuration name="LoaderClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liuzhaoxin.classloader.LoaderClass" />
       <module name="class-loader" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.liuzhaoxin.classloader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page_001_020.PreorderTraversal" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_001_020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page_001_020.WordBreak" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_001_020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordBreak" />
+        <item itemvalue="Application.PreorderTraversal" />
         <item itemvalue="Application.ReorderList" />
         <item itemvalue="Application.LoaderClass" />
         <item itemvalue="Application.Singleton" />
-        <item itemvalue="Application.ConvertArrayToListNode" />
-        <item itemvalue="Application.InsertSortList" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +167,7 @@
       <workItem from="1587012280028" duration="2905000" />
       <workItem from="1587025425770" duration="4237000" />
       <workItem from="1587038733797" duration="1577000" />
-      <workItem from="1587093410005" duration="1172000" />
+      <workItem from="1587093410005" duration="3825000" />
     </task>
     <servers />
   </component>
@@ -204,26 +187,30 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="428" y="187" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1587038827551" />
+    <state x="614" y="391" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587100056481">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="614" y="391" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1587100056481" />
     <state x="578" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586483546171">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="578" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586483546171" />
-    <state width="1638" height="201" key="GridCell.Tab.0.bottom" timestamp="1587096098244">
+    <state width="1638" height="232" key="GridCell.Tab.0.bottom" timestamp="1587110830642">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="201" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587096098244" />
-    <state width="1638" height="201" key="GridCell.Tab.0.center" timestamp="1587096098242">
+    <state width="1638" height="232" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587110830642" />
+    <state width="1638" height="232" key="GridCell.Tab.0.center" timestamp="1587110830641">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="201" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587096098242" />
-    <state width="1638" height="201" key="GridCell.Tab.0.left" timestamp="1587096098242">
+    <state width="1638" height="232" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587110830641" />
+    <state width="1638" height="232" key="GridCell.Tab.0.left" timestamp="1587110830640">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="201" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587096098242" />
-    <state width="1638" height="201" key="GridCell.Tab.0.right" timestamp="1587096098243">
+    <state width="1638" height="232" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587110830640" />
+    <state width="1638" height="232" key="GridCell.Tab.0.right" timestamp="1587110830642">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="201" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587096098243" />
+    <state width="1638" height="232" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587110830642" />
     <state width="1638" height="201" key="GridCell.Tab.1.bottom" timestamp="1587096098245">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -278,7 +265,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/leetcode/src/main/java/page_001_020/ReorderList.java</url>
-          <line>26</line>
+          <line>32</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>

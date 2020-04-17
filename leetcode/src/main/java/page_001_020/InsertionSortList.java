@@ -4,6 +4,7 @@ import domain.ListNode;
 
 /**
  * @author liuzhaoxin
+ * 使用插入排序对链表进行排序
  */
 public class InsertionSortList {
     public ListNode insertionSortList(ListNode head) {

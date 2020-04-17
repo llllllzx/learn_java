@@ -7,6 +7,7 @@ import java.util.Stack;
 
 /**
  * @author liuzhaoxin
+ * 后序遍历二叉树
  */
 public class PostorderTraversal {
     public ArrayList<Integer> postorderTraversal(TreeNode root) {

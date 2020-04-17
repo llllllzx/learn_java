@@ -5,6 +5,12 @@ import utils.ListUtil;
 
 /**
  * @author liuzhaoxin
+ *
+ * 将给定的单链表L： L 0→L 1→…→L n-1→L n,
+ * 重新排序为： L 0→L n →L 1→L n-1→L 2→L n-2→…
+ * 要求使用原地算法，并且不改变节点的值
+ *
+ * 1->2->3->4->5->6->7  ===>  1->7->2->6->3->5->4
  */
 public class ReorderList {
     public static void main(String[] args) {
