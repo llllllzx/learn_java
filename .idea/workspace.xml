@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c74bb3-a9d7-43f9-8d9a-a10b0307b950" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/DetectCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/domain/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/CopyListWithRandomPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/WordBreak_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/InsertionSortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/InsertionSortList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/PostorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/PreorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/ReorderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/ReorderList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/InsertionSortList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/InsertionSortList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PostorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PostorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PreorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PreorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/ReorderList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/ReorderList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/WordBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/page_001_020/WordBreak.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liuzhaoxin.initialize.Singleton" />
-      <module name="class-loader" />
+    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page_001_020.WordBreak" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liuzhaoxin.initialize.*" />
+          <option name="PATTERN" value="page_001_020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="page_001_020.WordBreak" />
+    <configuration name="WordBreak_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page_001_020.WordBreak_II" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -130,10 +125,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.WordBreak" />
+        <item itemvalue="Application.WordBreak_II" />
         <item itemvalue="Application.PreorderTraversal" />
         <item itemvalue="Application.ReorderList" />
         <item itemvalue="Application.LoaderClass" />
-        <item itemvalue="Application.Singleton" />
       </list>
     </recent_temporary>
   </component>
@@ -195,22 +190,22 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="578" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1586483546171" />
-    <state width="1638" height="232" key="GridCell.Tab.0.bottom" timestamp="1587110830642">
+    <state width="1638" height="232" key="GridCell.Tab.0.bottom" timestamp="1587485241927">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="232" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587110830642" />
-    <state width="1638" height="232" key="GridCell.Tab.0.center" timestamp="1587110830641">
+    <state width="1638" height="232" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587485241927" />
+    <state width="1638" height="232" key="GridCell.Tab.0.center" timestamp="1587485241926">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="232" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587110830641" />
-    <state width="1638" height="232" key="GridCell.Tab.0.left" timestamp="1587110830640">
+    <state width="1638" height="232" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587485241926" />
+    <state width="1638" height="232" key="GridCell.Tab.0.left" timestamp="1587485241924">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="232" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587110830640" />
-    <state width="1638" height="232" key="GridCell.Tab.0.right" timestamp="1587110830642">
+    <state width="1638" height="232" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587485241924" />
+    <state width="1638" height="232" key="GridCell.Tab.0.right" timestamp="1587485241926">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="232" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587110830642" />
+    <state width="1638" height="232" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587485241926" />
     <state width="1638" height="201" key="GridCell.Tab.1.bottom" timestamp="1587096098245">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
