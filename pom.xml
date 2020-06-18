@@ -11,6 +11,7 @@
         <module>design-pattern</module>
         <module>class-loader</module>
         <module>leetcode</module>
+        <module>offer</module>
     </modules>
 
     <packaging>pom</packaging>
