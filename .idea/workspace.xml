@@ -2,166 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c74bb3-a9d7-43f9-8d9a-a10b0307b950" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/page_001_020/EventRuleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_01/Code_01_GetMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_01/Code_02_HanoiProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_01/Code_03_LongestPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_01/Code_05_IsBalancedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_01/Code_06_T1ContainsT2Topology.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_01/Code_07_ExpressionCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_01/Code_08_MaxDistanceInTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_02/Code_01_LeastRecentlyUsedCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_02/Code_02_Building_Outline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_02/Code_03_FindNewTypeChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_02/Code_04_TrieTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_02/Code_05_EnglishExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_02/Code_06_ChineseExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_02/Code_07_ThrowChessPiecesProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_03/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_03/AbstractBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_03/AbstractSelfBalancingBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_03/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_03/Code_01_MorrisTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_03/Code_02_SkipList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_03/RedBlackTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_04/Code_01_Building_Outline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_04/Code_02_LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_04/Code_03_LFU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_04/Code_04_BiggestSubBSTInTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_04/Code_05_LongestSumSubArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_04/Code_06_Most_EOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_04/Code_07_ExpressionCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_05/Code_01_IsBSTAndCBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_05/Code_02_IsBalancedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_05/Code_03_MaxDistanceInTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_05/Code_04_MaxHappy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_05/Code_05_Max_EOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_05/Code_06_CompleteTreeNodeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_06/Code_01_CoinsWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_06/Code_02_CardsInLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_06/Code_03_RegularExpressionMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_06/Code_04_LongestSumSubArrayLengthInPositiveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_06/Code_05_LongestSubarrayLessSumAwesomeSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_06/Code_06_JosephusProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_07/Code_01_MinPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_07/Code_02_LIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_07/Code_03_LCSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_07/Code_04_LCSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_07/Code_05_EditCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_07/Code_06_PalindromeMinCut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_07/Code_07_StringCross.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_07/Code_08_ParenthesesProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_08/Code_01_TopKSumCrossTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_08/Code_02_MaxSubMatrixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_08/Code_03_MaxOneBorderSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_08/Code_04_FibonacciProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_08/Code_05_LongestNoRepeatSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/advanced_class_08/Code_06_ShuffleProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/base_class_02/Code_01_KMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/base_class_02/Code_02_KMP_ShortestHaveTwice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/base_class_02/Code_03_KMP_T1SubtreeEqualsT2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/base_class_02/Code_04_Manacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/base_class_02/Code_05_Manacher_ShortestEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/base_class_02/Code_06_BFPRT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_00_BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_01_InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_02_SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_03_HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_04_QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_05_MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_06_BucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_07_RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_08_NetherlandsFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_09_Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_10_GetAllNotIncluded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_11_MaxGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_12_SmallSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/Test_Sort_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/Verification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_01_Array_To_Stack_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_02_GetMinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_03_StackAndQueueConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_04_DogCatQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_05_RotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_06_PrintMatrixSpiralOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_07_ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_08_ZigZagPrintMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_09_FindNumInSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_10_PrintCommonPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_11_IsPalindromeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_12_SmallerEqualBigger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_13_CopyListWithRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_14_FindFirstIntersectNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_15_FindOneLessValueIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_04/Code_01_PreInPosTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_04/Code_02_PrintBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_04/Code_03_SuccessorNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_04/Code_04_SerializeAndReconstructTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_04/Code_05_PaperFolding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_04/Code_06_IsBalancedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_04/Code_07_IsBSTAndCBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_04/Code_08_CompleteTreeNodeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_05/Code_01_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_05/Code_02_RandomPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_05/Code_03_Islands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_05/Code_04_UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/Code_01_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/Code_02_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/Code_03_TopologySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/Code_04_Kruskal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/Code_05_Prim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/Code_06_Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/GraphGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_06/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_07/Code_01_TrieTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_07/Code_02_Less_Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_07/Code_03_IPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_07/Code_04_MadianQuick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_07/Code_05_LowestLexicography.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_07/Code_06_BestArrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Code_01_Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Code_02_Hanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Code_03_Print_All_Subsquences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Code_04_Print_All_Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Code_05_Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Code_06_ReverseStackUsingRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Code_07_MinPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Code_08_Money_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Code_09_Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/FaceBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_08/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/domain/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/domain/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/domain/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/DetectCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/EvaluateReversePolishNotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/InsertSortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/InsertionSortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/MaxPointsOnALine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/MinimumDepthOfBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PostorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/PreorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/ReorderList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/SortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/page_001_020/WordBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/utils/ListUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,9 +83,9 @@
       <recent name="$PROJECT_DIR$/offer/src/main/java/advanced_class_04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code_11_MaxGap">
-    <configuration name="Code_00_BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic_class_01.Code_00_BubbleSort" />
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Code_01_InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_class_01.Code_01_InsertionSort" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
@@ -253,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code_01_InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic_class_01.Code_01_InsertionSort" />
+    <configuration name="Code_04_QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_class_01.Code_04_QuickSort" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
@@ -307,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Code_04_QuickSort" />
         <item itemvalue="Application.Code_11_MaxGap" />
         <item itemvalue="Application.Code_09_Comparator" />
-        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.Code_01_InsertionSort" />
-        <item itemvalue="Application.Code_00_BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +214,8 @@
       <workItem from="1591857428299" duration="897000" />
       <workItem from="1591865088596" duration="988000" />
       <workItem from="1592355565517" duration="1195000" />
-      <workItem from="1592387760053" duration="34271000" />
+      <workItem from="1592387760053" duration="35157000" />
+      <workItem from="1592487953450" duration="7943000" />
     </task>
     <servers />
   </component>
@@ -411,46 +256,50 @@
     </state>
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590759596295" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590759635436" />
-    <state width="1638" height="236" key="GridCell.Tab.0.bottom" timestamp="1592485060892">
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom" timestamp="1592573297387">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.bottom/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589640" />
-    <state width="1638" height="236" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592485060892" />
-    <state width="1638" height="208" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591195388872" />
-    <state width="1638" height="236" key="GridCell.Tab.0.center" timestamp="1592485060891">
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297387" />
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760669" />
+    <state width="1638" height="277" key="GridCell.Tab.0.center" timestamp="1592573297385">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.center/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589638" />
-    <state width="1638" height="236" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592485060891" />
-    <state width="1638" height="208" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591195388871" />
-    <state width="1638" height="236" key="GridCell.Tab.0.left" timestamp="1592485060890">
+    <state width="1638" height="277" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297385" />
+    <state width="1638" height="277" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760668" />
+    <state width="1638" height="277" key="GridCell.Tab.0.left" timestamp="1592573297384">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.left/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589637" />
-    <state width="1638" height="236" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592485060890" />
-    <state width="1638" height="208" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591195388870" />
-    <state width="1638" height="236" key="GridCell.Tab.0.right" timestamp="1592485060891">
+    <state width="1638" height="277" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297384" />
+    <state width="1638" height="277" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760668" />
+    <state width="1638" height="277" key="GridCell.Tab.0.right" timestamp="1592573297386">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.right/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589639" />
-    <state width="1638" height="236" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592485060891" />
-    <state width="1638" height="208" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591195388871" />
-    <state width="1638" height="277" key="GridCell.Tab.1.bottom" timestamp="1592484941266">
+    <state width="1638" height="277" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297386" />
+    <state width="1638" height="277" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760669" />
+    <state width="1638" height="277" key="GridCell.Tab.1.bottom" timestamp="1592573297389">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592484941266" />
-    <state width="1638" height="277" key="GridCell.Tab.1.center" timestamp="1592484941266">
+    <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297389" />
+    <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760671" />
+    <state width="1638" height="277" key="GridCell.Tab.1.center" timestamp="1592573297388">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="277" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592484941266" />
-    <state width="1638" height="277" key="GridCell.Tab.1.left" timestamp="1592484941265">
+    <state width="1638" height="277" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297388" />
+    <state width="1638" height="277" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760670" />
+    <state width="1638" height="277" key="GridCell.Tab.1.left" timestamp="1592573297387">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="277" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592484941265" />
-    <state width="1638" height="277" key="GridCell.Tab.1.right" timestamp="1592484941266">
+    <state width="1638" height="277" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297387" />
+    <state width="1638" height="277" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760670" />
+    <state width="1638" height="277" key="GridCell.Tab.1.right" timestamp="1592573297388">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="277" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592484941266" />
+    <state width="1638" height="277" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297388" />
+    <state width="1638" height="277" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760670" />
     <state x="378" y="187" key="Maven.ArtifactSearchDialog" timestamp="1591057949871">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -494,16 +343,6 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/Verification.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/Driver.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_11_MaxGap.java</url>
           <line>137</line>
           <option name="timeStamp" value="18" />
@@ -517,6 +356,21 @@
           <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/Code_11_MaxGap.java</url>
           <line>101</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/Driver.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/QuickSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/QuickSort.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
