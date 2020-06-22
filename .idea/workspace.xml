@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c74bb3-a9d7-43f9-8d9a-a10b0307b950" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_01_Array_To_Stack_Queue_Lzx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_16_ZigZagPrintBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_01_Array_To_Stack_Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/class_03/Code_01_Array_To_Stack_Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/target/classes/basic_class_01/design/impl/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/offer/target/classes/basic_class_01/design/impl/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/target/classes/basic_class_01/design/impl/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/offer/target/classes/basic_class_01/design/impl/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/target/classes/class_03/Code_01_Array_To_Stack_Queue$ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/offer/target/classes/class_03/Code_01_Array_To_Stack_Queue$ArrayStack.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +75,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class_03" />
       <recent name="basic_class_01.design.impl" />
       <recent name="page_001_020" />
       <recent name="utils" />
@@ -84,12 +90,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Driver">
-    <configuration name="Code_01_InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic_class_01.Code_01_InsertionSort" />
+    <configuration name="Code_01_Array_To_Stack_Queue_Lzx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_03.Code_01_Array_To_Stack_Queue_Lzx" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic_class_01.*" />
+          <option name="PATTERN" value="class_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,10 +158,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Code_01_Array_To_Stack_Queue_Lzx" />
         <item itemvalue="Application.Code_04_QuickSort" />
         <item itemvalue="Application.Code_11_MaxGap" />
         <item itemvalue="Application.Code_09_Comparator" />
-        <item itemvalue="Application.Code_01_InsertionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +222,8 @@
       <workItem from="1592355565517" duration="1195000" />
       <workItem from="1592387760053" duration="35157000" />
       <workItem from="1592487953450" duration="7943000" />
+      <workItem from="1592620800594" duration="6530000" />
+      <workItem from="1592722869434" duration="4464000" />
     </task>
     <servers />
   </component>
@@ -256,49 +264,49 @@
     </state>
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590759596295" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590759635436" />
-    <state width="1638" height="277" key="GridCell.Tab.0.bottom" timestamp="1592573297387">
+    <state width="1638" height="236" key="GridCell.Tab.0.bottom" timestamp="1592790247883">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.bottom/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589640" />
-    <state width="1638" height="277" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297387" />
+    <state width="1638" height="236" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592790247883" />
     <state width="1638" height="277" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760669" />
-    <state width="1638" height="277" key="GridCell.Tab.0.center" timestamp="1592573297385">
+    <state width="1638" height="236" key="GridCell.Tab.0.center" timestamp="1592790247882">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.center/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589638" />
-    <state width="1638" height="277" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297385" />
+    <state width="1638" height="236" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592790247882" />
     <state width="1638" height="277" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760668" />
-    <state width="1638" height="277" key="GridCell.Tab.0.left" timestamp="1592573297384">
+    <state width="1638" height="236" key="GridCell.Tab.0.left" timestamp="1592790247882">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.left/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589637" />
-    <state width="1638" height="277" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297384" />
+    <state width="1638" height="236" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592790247882" />
     <state width="1638" height="277" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760668" />
-    <state width="1638" height="277" key="GridCell.Tab.0.right" timestamp="1592573297386">
+    <state width="1638" height="236" key="GridCell.Tab.0.right" timestamp="1592790247883">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.right/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589639" />
-    <state width="1638" height="277" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297386" />
+    <state width="1638" height="236" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592790247883" />
     <state width="1638" height="277" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760669" />
-    <state width="1638" height="277" key="GridCell.Tab.1.bottom" timestamp="1592573297389">
+    <state width="1638" height="277" key="GridCell.Tab.1.bottom" timestamp="1592788615208">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297389" />
+    <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592788615208" />
     <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760671" />
-    <state width="1638" height="277" key="GridCell.Tab.1.center" timestamp="1592573297388">
+    <state width="1638" height="277" key="GridCell.Tab.1.center" timestamp="1592788615207">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="277" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297388" />
+    <state width="1638" height="277" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592788615207" />
     <state width="1638" height="277" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760670" />
-    <state width="1638" height="277" key="GridCell.Tab.1.left" timestamp="1592573297387">
+    <state width="1638" height="277" key="GridCell.Tab.1.left" timestamp="1592788615206">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="277" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297387" />
+    <state width="1638" height="277" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592788615206" />
     <state width="1638" height="277" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760670" />
-    <state width="1638" height="277" key="GridCell.Tab.1.right" timestamp="1592573297388">
+    <state width="1638" height="277" key="GridCell.Tab.1.right" timestamp="1592788615207">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="277" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592573297388" />
+    <state width="1638" height="277" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592788615207" />
     <state width="1638" height="277" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760670" />
     <state x="378" y="187" key="Maven.ArtifactSearchDialog" timestamp="1591057949871">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -318,10 +326,10 @@
     </state>
     <state x="234" y="216" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1592360490314" />
     <state x="234" y="234" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1586406014308" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1592455466038">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1592789462899">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592455466038" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592789462899" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1590762257563" />
   </component>
   <component name="XDebuggerManager">
@@ -358,11 +366,6 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/Driver.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/QuickSort.java</url>
           <line>13</line>
           <option name="timeStamp" value="26" />
@@ -371,6 +374,16 @@
           <url>file://$PROJECT_DIR$/offer/src/main/java/basic_class_01/design/impl/QuickSort.java</url>
           <line>49</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/offer/src/main/java/class_03/Code_01_Array_To_Stack_Queue_Lzx.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/offer/src/main/java/class_03/Code_01_Array_To_Stack_Queue_Lzx.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
