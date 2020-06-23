@@ -45,8 +45,10 @@ public class Code_01_PreInPosTraversal {
 		System.out.print("pre-order: ");
 		if (head != null) {
 			Stack<Node> stack = new Stack<Node>();
+			//先将头结点压入栈中
 			stack.add(head);
 			while (!stack.isEmpty()) {
+				//从栈中弹出，打印 
 				head = stack.pop();
 				System.out.print(head.value + " ");
 				if (head.right != null) {
@@ -69,6 +71,7 @@ public class Code_01_PreInPosTraversal {
 					stack.push(head);
 					head = head.left;
 				} else {
+					//从栈弹出，打印
 					head = stack.pop();
 					System.out.print(head.value + " ");
 					head = head.right;

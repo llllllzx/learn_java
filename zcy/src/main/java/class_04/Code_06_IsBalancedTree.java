@@ -48,6 +48,37 @@ public class Code_06_IsBalancedTree {
 
 		System.out.println(isBalance(head));
 
+		System.out.println(process(head).isBalance);
+
 	}
 
+	public static class ReturnData{
+		public boolean isBalance;
+		public int hight;
+
+		public ReturnData(boolean isBalance,int hight){
+			this.isBalance = isBalance;
+			this.hight = hight;
+		}
+
+	}
+
+	public static  ReturnData process(Node head){
+		if(head == null){
+			return new ReturnData(true,0);
+		}
+		ReturnData leftData = process(head.left);
+		if(!leftData.isBalance){
+			return new ReturnData(false,-1);
+		}
+		ReturnData rightData = process(head.right);
+		if(!rightData.isBalance){
+			return new ReturnData(false,-1);
+		}
+		if(Math.abs( leftData.hight - rightData.hight) > 1){
+			return new ReturnData(false,-1);
+		}
+
+		return new ReturnData(true,Math.abs(leftData.hight-rightData.hight) + 1);
+	}
 }

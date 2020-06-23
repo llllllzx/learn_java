@@ -1,5 +1,9 @@
 package class_04;
 
+
+//找前驱节点的方法与此方法类似：当前节点的左孩子不为空时，获取做孩子的最右的孩子；
+//当前节点的最孩子为空时，往上找，一个父节点是当前节点的右孩子时，就停止
+
 public class Code_03_SuccessorNode {
 
 	public static class Node {
@@ -13,13 +17,15 @@ public class Code_03_SuccessorNode {
 		}
 	}
 
+	//找后继节点的方法；
 	public static Node getSuccessorNode(Node node) {
 		if (node == null) {
 			return node;
 		}
+		//当前节点的右孩子不为空时，获取右孩子的最左的孩子
 		if (node.right != null) {
 			return getLeftMost(node.right);
-		} else {
+		} else {//当前节点的右孩子为空时，往上找，一个父节点是当前节点的左孩子时，就停止
 			Node parent = node.parent;
 			while (parent != null && parent.left != node) {
 				node = parent;
