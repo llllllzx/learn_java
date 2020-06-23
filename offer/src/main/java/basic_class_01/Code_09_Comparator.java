@@ -71,14 +71,14 @@ public class Code_09_Comparator {
 		Arrays.sort(students, new IdAscendingComparator());
 		printStudents(students);
 
-		Arrays.sort(students, new IdDescendingComparator());
-		printStudents(students);
-
-		Arrays.sort(students, new AgeAscendingComparator());
-		printStudents(students);
-
-		Arrays.sort(students, new AgeDescendingComparator());
-		printStudents(students);
+//		Arrays.sort(students, new IdDescendingComparator());
+//		printStudents(students);
+//
+//		Arrays.sort(students, new AgeAscendingComparator());
+//		printStudents(students);
+//
+//		Arrays.sort(students, new AgeDescendingComparator());
+//		printStudents(students);
 
 	}
 
