@@ -1,11 +1,7 @@
 package advanced_class_04;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 import java.util.Map.Entry;
-import java.util.TreeMap;
 
 public class Code_01_Building_Outline {
 

@@ -8,12 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="leetcode" />
-        <module name="offer" />
         <module name="class-loader" />
         <module name="design-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="offer" target="1.5" />
       <module name="thrift-learn" target="1.8" />
     </bytecodeTargetLevel>
   </component>

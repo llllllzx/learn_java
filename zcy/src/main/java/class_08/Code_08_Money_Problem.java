@@ -7,12 +7,8 @@ public class Code_08_Money_Problem {
 	}
 
 	public static boolean process1(int[] arr, int i, int sum, int aim) {
-		if (sum == aim) {
-			return true;
-		}
-		// sum != aim
 		if (i == arr.length) {
-			return false;
+			return sum == aim;
 		}
 		return process1(arr, i + 1, sum, aim) || process1(arr, i + 1, sum + arr[i], aim);
 	}
@@ -23,7 +19,7 @@ public class Code_08_Money_Problem {
 			dp[i][aim] = true;
 		}
 		for (int i = arr.length - 1; i >= 0; i--) {
-			for (int j = aim - 1; j >= 0; j--) {
+		 	for (int j = aim - 1; j >= 0; j--) {
 				dp[i][j] = dp[i + 1][j];
 				if (j + arr[i] <= aim) {
 					dp[i][j] = dp[i][j] || dp[i + 1][j + arr[i]];
