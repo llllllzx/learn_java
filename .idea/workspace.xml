@@ -2,299 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c74bb3-a9d7-43f9-8d9a-a10b0307b950" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zcy/src/main/java/basic_class_01/Code_13_Binary_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zcy/src/main/java/basic_class_01/ThreadLocalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zcy/src/main/java/class_04/Code_04_ReconstructSearchBinaryTree_lzx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zcy/src/main/java/class_04/Code_09_HomologousString_lzx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zcy/src/main/java/class_08/Code_04_Print_All_Permutations_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zcy/src/main/java/class_08/Code_08_Money_Problem_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/META-INF/class-loader.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/LoaderClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/classloader/MyObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/initialize/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/initialize/Obj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/initialize/Obj1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/initialize/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/initialize/Singleton01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/initialize/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/initialize/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class-loader/target/classes/com/liuzhaoxin/initialize/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational/singleton/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/singleton/LazySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavior/builder/URLBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavior/strategy/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavior/strategy/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavior/strategy/SimpleCalculatorStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavior/strategy/TaxCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/abstract_factory/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/abstract_factory/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/abstract_factory/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/abstract_factory/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/abstract_factory/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/factory_method/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/factory_method/AppleFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/factory_method/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/factory_method/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/factory_method/FruitFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/simple_factory/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/simple_factory/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/simple_factory/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/simple_factory/FruitEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/simple_factory/FruitFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/factory/simple_factory/Orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/HungrySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/LazySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/Singleton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/Singleton$SingletonHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/SingletonObject$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/SingletonObject$Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational/singleton/SingletonObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/test-classes/META-INF/design-pattern.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/target/test-classes/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/META-INF/leetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/src/main/java/advanced_class_04/Code_01_Building_Outline.java" beforeDir="false" afterPath="$PROJECT_DIR$/zcy/src/main/java/advanced_class_04/Code_01_Building_Outline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/src/main/java/base_class_02/Code_04_Manacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/zcy/src/main/java/base_class_02/Code_04_Manacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/src/main/java/class_03/Code_07_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/zcy/src/main/java/class_03/Code_07_ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/src/main/java/class_08/Code_03_Print_All_Subsquences.java" beforeDir="false" afterPath="$PROJECT_DIR$/zcy/src/main/java/class_08/Code_03_Print_All_Subsquences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/src/main/java/class_08/Code_07_MinPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/zcy/src/main/java/class_08/Code_07_MinPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/src/main/java/class_08/Code_08_Money_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/zcy/src/main/java/class_08/Code_08_Money_Problem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_01_GetMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_02_HanoiProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_03_LongestPathSum$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_03_LongestPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_05_IsBalancedTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_05_IsBalancedTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_06_T1ContainsT2Topology$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_06_T1ContainsT2Topology.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_07_ExpressionCompute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_08_MaxDistanceInTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_01/Code_08_MaxDistanceInTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_01_LeastRecentlyUsedCache$MyCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_01_LeastRecentlyUsedCache$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_01_LeastRecentlyUsedCache$NodeDoubleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_01_LeastRecentlyUsedCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_02_Building_Outline$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_02_Building_Outline$NodeComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_02_Building_Outline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_03_FindNewTypeChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_04_TrieTree$Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_04_TrieTree$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_04_TrieTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_05_EnglishExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_06_ChineseExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_02/Code_07_ThrowChessPiecesProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/AVLTree$AVLNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/AVLTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/AbstractBinarySearchTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/AbstractBinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/AbstractSelfBalancingBinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/BinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/Code_01_MorrisTraversal$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/Code_01_MorrisTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/Code_02_SkipList$SkipList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/Code_02_SkipList$SkipListIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/Code_02_SkipList$SkipListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/Code_02_SkipList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/RedBlackTree$ColorEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/RedBlackTree$RedBlackNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_03/RedBlackTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_01_Building_Outline$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_01_Building_Outline$NodeComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_01_Building_Outline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_02_LRU$MyCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_02_LRU$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_02_LRU$NodeDoubleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_02_LRU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_03_LFU$LFUCache$NodeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_03_LFU$LFUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_03_LFU$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_03_LFU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_04_BiggestSubBSTInTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_04_BiggestSubBSTInTree$ReturnType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_04_BiggestSubBSTInTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_05_LongestSumSubArrayLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_06_Most_EOR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_04/Code_07_ExpressionCompute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_01_IsBSTAndCBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_01_IsBSTAndCBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_02_IsBalancedTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_02_IsBalancedTree$ReturnType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_02_IsBalancedTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_03_MaxDistanceInTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_03_MaxDistanceInTree$ReturnType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_03_MaxDistanceInTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_04_MaxHappy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_05_Max_EOR$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_05_Max_EOR$NumTrie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_05_Max_EOR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_06_CompleteTreeNodeNumber$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_05/Code_06_CompleteTreeNodeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_06/Code_01_CoinsWay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_06/Code_02_CardsInLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_06/Code_03_RegularExpressionMatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_06/Code_04_LongestSumSubArrayLengthInPositiveArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_06/Code_05_LongestSubarrayLessSumAwesomeSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_06/Code_06_JosephusProblem$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_06/Code_06_JosephusProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_07/Code_01_MinPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_07/Code_02_LIS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_07/Code_03_LCSubsequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_07/Code_04_LCSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_07/Code_05_EditCost.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_07/Code_06_PalindromeMinCut.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_07/Code_07_StringCross.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_07/Code_08_ParenthesesProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_08/Code_01_TopKSumCrossTwoArrays$HeapNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_08/Code_01_TopKSumCrossTwoArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_08/Code_02_MaxSubMatrixSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_08/Code_03_MaxOneBorderSize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_08/Code_04_FibonacciProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_08/Code_05_LongestNoRepeatSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/advanced_class_08/Code_06_ShuffleProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/base_class_02/Code_01_KMP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/base_class_02/Code_02_KMP_ShortestHaveTwice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/base_class_02/Code_03_KMP_T1SubtreeEqualsT2$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/base_class_02/Code_03_KMP_T1SubtreeEqualsT2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/base_class_02/Code_04_Manacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/base_class_02/Code_05_Manacher_ShortestEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/base_class_02/Code_06_BFPRT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_00_BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_01_InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_02_SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_03_HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_04_QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_05_MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_06_BucketSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_07_RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_08_NetherlandsFlag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_09_Comparator$AgeAscendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_09_Comparator$AgeDescendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_09_Comparator$IdAscendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_09_Comparator$IdDescendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_09_Comparator$Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_09_Comparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_09_Comparator_01$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_09_Comparator_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_10_GetAllNotIncluded.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_11_MaxGap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Code_12_SmallSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/Test_Sort_Template.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/design/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/design/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/design/Verification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/design/impl/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/design/impl/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/design/impl/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/design/impl/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/basic_class_01/design/impl/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_01_Array_To_Stack_Queue$ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_01_Array_To_Stack_Queue$ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_01_Array_To_Stack_Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_01_Array_To_Stack_Queue_Lzx$ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_01_Array_To_Stack_Queue_Lzx$ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_01_Array_To_Stack_Queue_Lzx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_02_GetMinStack$MyStack1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_02_GetMinStack$MyStack2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_02_GetMinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_03_StackAndQueueConvert$TwoQueuesStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_03_StackAndQueueConvert$TwoStacksQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_03_StackAndQueueConvert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_04_DogCatQueue$Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_04_DogCatQueue$Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_04_DogCatQueue$DogCatQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_04_DogCatQueue$Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_04_DogCatQueue$PetEnterQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_04_DogCatQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_05_RotateMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_06_PrintMatrixSpiralOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_07_ReverseList$DoubleNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_07_ReverseList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_07_ReverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_08_ZigZagPrintMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_09_FindNumInSortedMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_10_PrintCommonPart$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_10_PrintCommonPart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_11_IsPalindromeList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_11_IsPalindromeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_12_SmallerEqualBigger$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_12_SmallerEqualBigger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_13_CopyListWithRandom$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_13_CopyListWithRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_14_FindFirstIntersectNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_14_FindFirstIntersectNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_15_FindOneLessValueIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/Code_16_ZigZagPrintBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_03/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_01_PreInPosTraversal$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_01_PreInPosTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_02_PrintBinaryTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_02_PrintBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_03_SuccessorNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_03_SuccessorNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_04_SerializeAndReconstructTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_04_SerializeAndReconstructTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_05_PaperFolding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_06_IsBalancedTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_06_IsBalancedTree$ReturnData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_06_IsBalancedTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_07_IsBSTAndCBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_07_IsBSTAndCBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_08_CompleteTreeNodeNumber$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_04/Code_08_CompleteTreeNodeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_05/Code_01_HashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_05/Code_02_RandomPool$Pool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_05/Code_02_RandomPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_05/Code_03_Islands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_05/Code_04_UnionFind$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_05/Code_04_UnionFind$UnionFindSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_05/Code_04_UnionFind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_01_BFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_02_DFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_03_TopologySort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_04_Kruskal$EdgeComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_04_Kruskal$UnionFind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_04_Kruskal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_05_Prim$EdgeComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_05_Prim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_06_Dijkstra$NodeHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_06_Dijkstra$NodeRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Code_06_Dijkstra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Edge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/GraphGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_06/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_01_TrieTree$Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_01_TrieTree$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_01_TrieTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_02_Less_Money$MaxheapComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_02_Less_Money$MinheapComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_02_Less_Money.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_03_IPO$MaxProfitComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_03_IPO$MinCostComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_03_IPO$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_03_IPO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_04_MadianQuick$MaxHeapComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_04_MadianQuick$MedianHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_04_MadianQuick$MinHeapComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_04_MadianQuick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_05_LowestLexicography$MyComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_05_LowestLexicography.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_06_BestArrange$Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_06_BestArrange$ProgramComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_07/Code_06_BestArrange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Code_01_Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Code_02_Hanoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Code_03_Print_All_Subsquences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Code_04_Print_All_Permutations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Code_05_Cow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Code_06_ReverseStackUsingRecursive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Code_07_MinPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Code_08_Money_Problem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Code_09_Knapsack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/FaceBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zcy/target/classes/class_08/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/class_08/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/class_08/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcy/src/main/java/class_04/Code_08_CompleteTreeNodeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/zcy/src/main/java/class_04/Code_08_CompleteTreeNodeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcy/src/main/java/class_08/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/zcy/src/main/java/class_08/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -373,26 +84,13 @@
       <recent name="$PROJECT_DIR$/offer/src/main/java/advanced_class_04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintABAtomic">
-    <configuration name="Code_01_KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base_class_02.Code_01_KMP" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Object (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.lang.Object" />
       <module name="learn_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="base_class_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code_08_Money_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_08.Code_08_Money_Problem" />
-      <module name="learn_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class_08.*" />
+          <option name="PATTERN" value="java.lang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -439,13 +137,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_08.Test" />
+      <module name="learn_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintABAtomic" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.TT" />
+        <item itemvalue="Application.Object (1)" />
+        <item itemvalue="Application.PrintABAtomic" />
         <item itemvalue="Application.Object" />
-        <item itemvalue="Application.Code_01_KMP" />
-        <item itemvalue="Application.Code_08_Money_Problem" />
       </list>
     </recent_temporary>
   </component>
@@ -511,7 +222,8 @@
       <workItem from="1592828412272" duration="3133000" />
       <workItem from="1592877601155" duration="2460000" />
       <workItem from="1593000708003" duration="10155000" />
-      <workItem from="1593403517339" duration="43759000" />
+      <workItem from="1593403517339" duration="60055000" />
+      <workItem from="1594435921255" duration="3865000" />
     </task>
     <servers />
   </component>
@@ -556,57 +268,57 @@
     </state>
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590759596295" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590759635436" />
-    <state width="1638" height="208" key="GridCell.Tab.0.bottom" timestamp="1593705229422">
+    <state width="1638" height="288" key="GridCell.Tab.0.bottom" timestamp="1594561315946">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.bottom/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589640" />
     <state width="1638" height="277" key="GridCell.Tab.0.bottom/0.-1057.1920.1057/0.23.1680.1027/-1080.-1080.1080.1920@-1080.-1080.1080.1920" timestamp="1592981306243" />
-    <state width="1638" height="208" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593705229422" />
+    <state width="1638" height="288" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1594561315946" />
     <state width="1638" height="277" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760669" />
-    <state width="1638" height="208" key="GridCell.Tab.0.center" timestamp="1593705229420">
+    <state width="1638" height="288" key="GridCell.Tab.0.center" timestamp="1594561315944">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.center/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589638" />
     <state width="1638" height="277" key="GridCell.Tab.0.center/0.-1057.1920.1057/0.23.1680.1027/-1080.-1080.1080.1920@-1080.-1080.1080.1920" timestamp="1592981306241" />
-    <state width="1638" height="208" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593705229420" />
+    <state width="1638" height="288" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1594561315944" />
     <state width="1638" height="277" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760668" />
-    <state width="1638" height="208" key="GridCell.Tab.0.left" timestamp="1593705229420">
+    <state width="1638" height="288" key="GridCell.Tab.0.left" timestamp="1594561315944">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.left/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589637" />
     <state width="1638" height="277" key="GridCell.Tab.0.left/0.-1057.1920.1057/0.23.1680.1027/-1080.-1080.1080.1920@-1080.-1080.1080.1920" timestamp="1592981306240" />
-    <state width="1638" height="208" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593705229420" />
+    <state width="1638" height="288" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1594561315944" />
     <state width="1638" height="277" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760668" />
-    <state width="1638" height="208" key="GridCell.Tab.0.right" timestamp="1593705229421">
+    <state width="1638" height="288" key="GridCell.Tab.0.right" timestamp="1594561315945">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="208" key="GridCell.Tab.0.right/-91.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1591867589639" />
     <state width="1638" height="277" key="GridCell.Tab.0.right/0.-1057.1920.1057/0.23.1680.1027/-1080.-1080.1080.1920@-1080.-1080.1080.1920" timestamp="1592981306242" />
-    <state width="1638" height="208" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593705229421" />
+    <state width="1638" height="288" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1594561315945" />
     <state width="1638" height="277" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760669" />
-    <state width="1638" height="277" key="GridCell.Tab.1.bottom" timestamp="1593269237431">
+    <state width="1638" height="277" key="GridCell.Tab.1.bottom" timestamp="1594435119315">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.-1057.1920.1057/0.23.1680.1027/-1080.-1080.1080.1920@-1080.-1080.1080.1920" timestamp="1592981306246" />
-    <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593269237431" />
+    <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1594435119315" />
     <state width="1638" height="277" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760671" />
-    <state width="1638" height="277" key="GridCell.Tab.1.center" timestamp="1593269237430">
+    <state width="1638" height="277" key="GridCell.Tab.1.center" timestamp="1594435119315">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="277" key="GridCell.Tab.1.center/0.-1057.1920.1057/0.23.1680.1027/-1080.-1080.1080.1920@-1080.-1080.1080.1920" timestamp="1592981306245" />
-    <state width="1638" height="277" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593269237430" />
+    <state width="1638" height="277" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1594435119315" />
     <state width="1638" height="277" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760670" />
-    <state width="1638" height="277" key="GridCell.Tab.1.left" timestamp="1593269237429">
+    <state width="1638" height="277" key="GridCell.Tab.1.left" timestamp="1594435119314">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="277" key="GridCell.Tab.1.left/0.-1057.1920.1057/0.23.1680.1027/-1080.-1080.1080.1920@-1080.-1080.1080.1920" timestamp="1592981306244" />
-    <state width="1638" height="277" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593269237429" />
+    <state width="1638" height="277" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1594435119314" />
     <state width="1638" height="277" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760670" />
-    <state width="1638" height="277" key="GridCell.Tab.1.right" timestamp="1593269237431">
+    <state width="1638" height="277" key="GridCell.Tab.1.right" timestamp="1594435119315">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="277" key="GridCell.Tab.1.right/0.-1057.1920.1057/0.23.1680.1027/-1080.-1080.1080.1920@-1080.-1080.1080.1920" timestamp="1592981306245" />
-    <state width="1638" height="277" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593269237431" />
+    <state width="1638" height="277" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1594435119315" />
     <state width="1638" height="277" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592487760670" />
     <state x="378" y="187" key="Maven.ArtifactSearchDialog" timestamp="1591057949871">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -626,11 +338,11 @@
     </state>
     <state x="234" y="216" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1592360490314" />
     <state x="234" y="234" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1586406014308" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1593614634001">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1593741909902">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050/-1080.0.1080.1920@0.0.1680.1050" timestamp="1593002223273" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593614634001" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593741909902" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1590762257563" />
   </component>
   <component name="XDebuggerManager">
